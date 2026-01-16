@@ -1,9 +1,27 @@
-- 👋 Hi, I’m @DaKheera47, you may know me as Shaheer Sarfaraz
-- 👀 I’m interested in making web apps in React and Node
-- 💻 I'm also passionate about automating everything to improve my day-to-day life
-- ⚒️ Check out my work on my [website](https://shaheersarfaraz.promirage.com)
-- 🌱 I’m working at [Project Mirage](https://www.promirage.com), a design and development consultancy
-- 📫 I'm free to talk any time on Discord @ShaheerSarfaraz#1532
+# hey, i’m Shaheer Sarfaraz (DaKheera47) 👋
+
+I’m a Computer Science student in the UK, and I like building things that remove friction.
+
+Most of my work lives in the overlap between product engineering and automation: web apps that feel clean to use, systems that turn messy manual workflows into repeatable pipelines, and tooling that keeps data organised instead of scattered across tabs and docs.
+
+## what i do
+- Full-stack web development
+- Automation + orchestration (scripts, workflows, integrations)
+- Systems thinking: take a vague problem, break it into parts, ship an end-to-end solution
+- Self-hosting + tooling: I like owning my stack when it makes sense
+
+## how i work
+I’m biased toward shipping. I care about clean interfaces, strong defaults, and making things easy to operate after they’re “done”. I’d rather build a boring system that runs every day than a flashy one-off that needs babysitting.
+
+I also don’t like manual admin work, which is why a lot of my projects end up being “this annoyed me, so I built the tool I wish existed”.
+
+## links
+- Portfolio: https://shaheersarfaraz.promirage.com/
+- Mirage: https://promirage.com/
+
+## contact
+- Email: shaheer30sarfaraz@gmail.com
+- UK: Blackpool, Lancashire
 
 <!---
 DaKheera47/DaKheera47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
